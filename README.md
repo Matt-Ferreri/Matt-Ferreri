@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Matt
 
 - I am currently a sophomore at Marist College majoring in Computer Science. 
 - I am currently in a software development class working on the projects assigned to me. 
