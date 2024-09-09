@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am currently a sophomore at Marist College majoring in Computer Science. 
+I am currently in a software development class working on the projects assigned to me. 
+I am learning front end coding, including how to design a website and make it look nice.
+I enjoy many outdoor activities, maining running, which I do competitively at Marist.
+Ask me about anything including my coding projects, interests, or anything else.
+Contact me via my phone number: (845)867-7719
+
+
 <!--
 **Matt-Ferreri/Matt-Ferreri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
